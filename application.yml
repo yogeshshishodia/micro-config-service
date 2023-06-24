@@ -1,3 +1,7 @@
+spring:
+  appliaction:
+     name: Config-Default
+
 eureka:
    instance:
     instance:
